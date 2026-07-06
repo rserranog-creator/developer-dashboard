@@ -1,1 +1,5 @@
-console.log("Hola Roberto, bienvenido a DevOS");
+console.log("51" + 1);
+
+console.log(51 + "1");
+
+console.log("51" + "1");
