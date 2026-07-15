@@ -1,8 +1,7 @@
-let goles = 0;
-console.log(goles);
-goles++;
-console.log(goles);
-goles += 1;
-console.log(goles);
-goles--;
-console.log(goles);
+console.log(true == 1);
+
+console.log(true === 1);
+
+console.log(false == 0);
+
+console.log(false === 0);

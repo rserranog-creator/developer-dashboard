@@ -154,3 +154,18 @@ saldo	    Nombre de la variable
 =	        Asigna un valor
 100	        Valor
 ;	        Fin de la instrucción
+
+
+## Comparadores
+
+```javascript
+>
+<
+>=
+<=
+===
+!==
+
+&&    // AND
+||    // OR
+!     // NOT
